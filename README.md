@@ -4,7 +4,7 @@ Hi there 👋🏻
 <a href="https://twitter.com/bhuukhanhhh">
     <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
 </a>
-<a href="https://linkedin.com/bhuukhanhhh">
+<a href="https://www.linkedin.com/in/bhuukhanhhh/">
     <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
 <a href="https://instagram.com/_____bhk">
