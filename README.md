@@ -1,5 +1,11 @@
 Hi there 👋🏻
 
+#### Who am I?
+- An undergraduate student at **[University of Information Technology - VNUHCM](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Information_Technology)**
+- Interested in Back-End developer career path
+- Check out my portfolio at **[(In Progress)](http://example.com)**
+
+
 #### How to contact me?
 <a href="https://twitter.com/bhuukhanhhh">
     <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
