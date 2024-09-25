@@ -2,7 +2,7 @@ Hi there 👋🏻
 
 #### Who am I?
 - An undergraduate student at **[University of Information Technology - VNUHCM](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Information_Technology)**
-- Interested in Back-End developer career path
+- Interested in Back-End developer / DevOps engineer career path
 - Check out my portfolio at **[(In Progress)](http://example.com)**
 
 
