@@ -1,21 +1,19 @@
-Hi there 👋🏻
+Hi guys 👋🏻
 
-#### Who am I?
-- An undergraduate student at **[University of Information Technology - VNUHCM](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Information_Technology)**
-- Interested in Back-End developer / DevOps engineer career path
-- Check out my portfolio at **[(In Progress)](http://example.com)**
+My full name is **Bùi Hữu Khánh**, I'm a Vietnamese and my hometown is Bình Thạnh, Hồ Chí Minh city.
+
+I'm currently an undergraduate student at **[University of Information Technology (UIT) - VNU HCM](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Information_Technology)**.
+
+And I'm really interested in Back-end developer and also DevOps engineer career path, you guys can check out my GitHub repository for some projects that I have built and deployed.
 
 
 #### How to contact me?
-<a href="https://twitter.com/bhuukhanhhh" target="_blank">
-    <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bhuukhanhhh/" target="_blank">
+<a href="https://www.linkedin.com/in/bhkhanh/" target="_blank">
     <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
-<a href="https://instagram.com/_____bhk" target="_blank">
+<a href="https://www.instagram.com/___bhkhanh/" target="_blank">
     <img align="left" alt="Instagram" width="22px" src="./assets/instagram.svg" />
 </a>
-<a href="https://facebook.com/bhkhanh" target="_blank">
+<a href="https://www.facebook.com/bhkhanh" target="_blank">
     <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
 </a>
