@@ -1,19 +1,21 @@
-Hi guys 👋🏻
+# Hey, I'm Khánh 👋🏻
 
-My full name is **Bùi Hữu Khánh**, I'm a Vietnamese and my hometown is Bình Thạnh, Hồ Chí Minh city.
+**I am currently an undergraduate student at [University of Information Technology (UIT) - VNU HCM](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Information_Technology).**
+*(Expected graduation on September, 2025)*
 
-I'm currently an undergraduate student at **[University of Information Technology (UIT) - VNU HCM](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Information_Technology)**.
+Despite participating in Information Security major, I have a great passion for software development. Therefore, I am opened for an intern job such as Software Engineer, Back-end developer or DevOps engineer.
 
-And I'm really interested in Back-end developer and also DevOps engineer career path, you guys can check out my GitHub repository for some projects that I have built and deployed.
+**[Click here for my resume/CV 📄](https://www.example.com/)**
 
+## Project 👨🏻‍💻
 
-#### How to contact me?
-<a href="https://www.linkedin.com/in/bhkhanh/" target="_blank">
-    <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/___bhkhanh/" target="_blank">
-    <img align="left" alt="Instagram" width="22px" src="./assets/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/bhkhanh" target="_blank">
-    <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
-</a>
+> *I'm still updating my projects in the repository in detail, and I will attach their links here if they have demo.*
+
+## Contact 📌
+
+You are freely to message me on following social media platforms or you can contact me by sending an email.
+
+<a href="https://www.linkedin.com/in/bhkhanh/" target="_blank"><img src="./assets/images/linkedin.svg" align="center" alt="LinkedIn logo" width="32" /></a>
+<a href="https://www.facebook.com/bhkhanh/" target="_blank"><img src="./assets/images/facebook.svg" align="center" alt="Facebook logo" width="32" /></a>
+<a href="https://www.instagram.com/___bhkhanh/" target="_blank"><img src="./assets/images/instagram.svg" align="center" alt="Instagram logo" width="32" /></a>
+<a href="mailto:bhkhanh@hotmail.com"><img src="./assets/images/email.svg" align="center" alt="Email logo" width="32" /></a>
