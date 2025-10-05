@@ -1,11 +1,8 @@
 # Hey, I'm Khánh 👋
 
-**I am currently an undergraduate student at [University of Information Technology (UIT) - VNUHCM](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Information_Technology).**
+**I'm a fresh graduate at [University of Information Technology (UIT) - VNUHCM](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Information_Technology)**. *(Graduated in September 2025)*
 
-- *Major: Engineer in **Information Security***
-- *Expected graduation on **September, 2025***
-
-Despite participating in Information Security major, I have a great passion for software development. Therefore, I am opened for an intern job such as Software engineer, Back-end developer or DevOps engineer.
+I have a great passion for software and web application development. Therefore, I am seeking for a fresher or an intern job such as Full-stack developer, Software developer or maybe DevOps engineer.
 
 **[Click here for my resume/CV 📄](https://www.example.com/)**
 
