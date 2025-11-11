@@ -8,13 +8,13 @@ I have fundamental experience in Python and JavaScript, particularly using Djang
 I'm interested in learning by doing and I am eager to learn new things.
 Therefore, I am seeking either an intern or a fresher job such as **Full-stack developer**, **Software developer** or **Back-end engineer** to gain more experience for my skills and also for career development.
 
-**[Click here for my resume/CV 📄](https://drive.google.com/file/d/1wWS_HSta2mroAZA-gqu7OgAcROCvsx5J/view?usp=sharing)**
+📄 **[Click here for my resume/CV](https://drive.google.com/file/d/1wWS_HSta2mroAZA-gqu7OgAcROCvsx5J/view?usp=sharing)**
 
 ## Project 👨🏻‍💻
 
 - Learning Material Sharing Web Application - **Study Hub**
   
-  - Demo: [https://study-hub.it](https://study-hub.it)
+  - Demo: [https://study-hub.online](https://study-hub.online)
   - Link of repository: [https://github.com/bhkhanh/study-hub](https://github.com/bhkhanh/study-hub)
 
 - Document Management Web Application - **Doculess**
